@@ -1,3 +1,5 @@
+.DS_Store
+
 node_modules
 dist
 .idea
@@ -6,5 +8,3 @@ dist
 packages/remixapp/build
 packages/remixapp/public/build
 .env
-
-.DS_Store
